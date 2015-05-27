@@ -11,3 +11,5 @@ JULIET: Wherefor art thou, Romeo?
 Romeo drinks poison.
 
 ROMEO: Blarg, I'm dead!
+
+Romeo dies.
